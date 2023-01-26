@@ -6,7 +6,7 @@
  **/
 public class Stamps {
     public static void main(String[] args){
-        int endangerdAniStamps:
-        int
+        int endangerdAniStamps =7:
+       // int
     }
 }
